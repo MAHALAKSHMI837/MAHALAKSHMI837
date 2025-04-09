@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahalakshmi S</h1>
-<h3 align="center">Pre-final year CSE undergrad | Backend Developer | GenAI Enthusiast</h3>
+<h3 align="center">Pre-final year CSE undergraduate | Backend Developer | GenAI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahalakshmis&label=Profile%20views&color=0e75b6&style=flat" alt="mahalakshmis" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, APIs, system design, or how to start with GenAI**
 
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **srimahalakshmi0001@gmail.com**
 
 - ⚡ Fun fact: _I love building things that make life smarter, not harder._
 
