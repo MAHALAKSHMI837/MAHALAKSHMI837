@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahalakshmi S</h1>
 <h3 align="center">Pre-final year CSE undergraduate | Backend Developer | GenAI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahalakshmis&label=Profile%20views&color=0e75b6&style=flat" alt="mahalakshmis" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mahalakshmis&label=Profile%20views&color=0e75b6&style=flat" alt="mahalakshmis" /> 
+</p>
 
 - 🔭 I’m currently working on **GenAI-powered personalized e-commerce & cybersecurity projects**
 
@@ -31,10 +33,18 @@
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+<h3 align="center">☕ Powered by Java & Passion</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmis&show_icons=true&theme=tokyonight" alt="mahalakshmis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmis&layout=compact&theme=tokyonight" alt="mahalakshmis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmis&show_icons=true&theme=tokyonight&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="mahalakshmis GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmis&layout=compact&theme=tokyonight&title_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="mahalakshmis Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmis&theme=tokyonight&fire=ffcc00&currStreakLabel=ffffff" alt="mahalakshmis Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahalakshmis&theme=tokyonight" width="80%" alt="mahalakshmis Profile Summary" />
 </p>
 
 ---
@@ -42,10 +52,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mahalakshmis" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mahalakshmis" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn - Mahalakshmi" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" />
+  <a href="mailto:srimahalakshmi0001@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30" />
   </a>
-</p>
+</p>  
