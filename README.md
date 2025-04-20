@@ -1,61 +1,58 @@
-<h1 align="center">Hi 👋, I'm Mahalakshmi S</h1>
-<h3 align="center">Pre-final year CSE undergraduate | Backend Developer | GenAI Enthusiast</h3>
+![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahalakshmis&label=Profile%20views&color=0e75b6&style=flat" alt="mahalakshmis" /> 
-</p>
-
-- 🔭 I’m currently working on **GenAI-powered personalized e-commerce & cybersecurity projects**
-
-- 🌱 I’m learning **Spring Boot, ML for Security, and Cloud Fundamentals**
-
-- 👯 I’m looking to collaborate on **AI/ML, backend systems, or hackathons**
-
-- 💬 Ask me about **Java, APIs, system design, or how to start with GenAI**
-
-- 📫 How to reach me: **srimahalakshmi0001@gmail.com**
-
-- ⚡ Fun fact: _I love building things that make life smarter, not harder._
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
+![version](https://img.shields.io/badge/version-20.04.2025-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=monish-14&color=blueviolet) &nbsp;
+[![GitHub Monish](https://img.shields.io/github/followers/MAHALAKSHMI837?label=Follow&style=social)](https://github.com/MAHALAKSHMI837) &nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I'm an **aspiring Flutter developer** and **ethical hacking enthusiast** passionate about building smooth UIs and learning how systems work under the hood.  
+📱 &nbsp;Currently working on a **Weather App** using Flutter with live API data and modern design.  
+🔐 &nbsp;Exploring the world of **bug bounty, penetration testing**, and security analysis tools like **Wireshark** and **Burp Suite**.  
+🌱 &nbsp;Learning **Dart, Flutter animations**, and best practices for mobile security.  
+🎮 &nbsp;Outside coding, I enjoy gaming, tech tutorials, and occasionally digging into CTFs.  
+💬 &nbsp;Always up for dev collabs, app ideas, or hacking challenges!  
+📫 &nbsp;Reach me: **srimahalakshmi0001@gmail.com**  
+📄 &nbsp;[LinkedIn](https://www.linkedin.com/in/MAHALAKSHMI837)
+
+---
+
+### 🛠️ &nbsp;Tech Stack
+
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
+
+### 📈 &nbsp;GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monish-14&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-14&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monish-14&theme=tokyonight&fire=ff69b4&currStreakLabel=ffffff" width="60%" />
 </p>
 
 ---
 
-<h3 align="center">☕ Powered by Java & Passion</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmis&show_icons=true&theme=tokyonight&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="mahalakshmis GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmis&layout=compact&theme=tokyonight&title_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="mahalakshmis Top Languages" width="48%" />
-</p>
+### 📫 &nbsp;How to reach me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahalakshmis&theme=tokyonight&fire=ffcc00&currStreakLabel=ffffff" alt="mahalakshmis Streak" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahalakshmis&theme=tokyonight" width="80%" alt="mahalakshmis Profile Summary" />
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahalakshmis" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn - Mahalakshmi" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:srimahalakshmi0001@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30" />
-  </a>
-</p>  
+<a href="https://www.linkedin.com/in/monish14/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:monishanand1521@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
