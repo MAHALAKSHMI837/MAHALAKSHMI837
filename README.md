@@ -42,17 +42,17 @@
 ### 📈 &nbsp;GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monish-14&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish-14&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHALAKSHMI837&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHALAKSHMI837&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monish-14&theme=tokyonight&fire=ff69b4&currStreakLabel=ffffff" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHALAKSHMI837&theme=tokyonight&fire=ff69b4&currStreakLabel=ffffff" width="60%" />
 </p>
 
 ---
 
 ### 📫 &nbsp;How to reach me
 
-<a href="https://www.linkedin.com/in/monish14/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:monishanand1521@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/MAHALAKSHMI837/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:AHALAKSHMI837@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
