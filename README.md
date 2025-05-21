@@ -1,45 +1,47 @@
-
-
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
-![version](https://img.shields.io/badge/version-20.04.2025-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=monish-14&color=blueviolet) &nbsp;
-[![GitHub Monish](https://img.shields.io/github/followers/MAHALAKSHMI837?label=Follow&style=social)](https://github.com/MAHALAKSHMI837) &nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+### <img alt="wave" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" /> Hello, I'm Mahalakshmi!
+![version](https://img.shields.io/badge/version-20.04.2025-informational)
+![Profile Views](https://komarev.com/ghpvc/?username=MAHALAKSHMI837&color=blueviolet)
+[![GitHub Followers](https://img.shields.io/github/followers/MAHALAKSHMI837?label=Follow&style=social)](https://github.com/MAHALAKSHMI837)
+![Build Status](https://img.shields.io/badge/build-passing-success)
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 About Me
 
-💡 &nbsp;I'm an **aspiring Flutter developer** and **ethical hacking enthusiast** passionate about building smooth UIs and learning how systems work under the hood.  
-📱 &nbsp;Currently working on a **Weather App** using Flutter with live API data and modern design.  
-🔐 &nbsp;Exploring the world of **bug bounty, penetration testing**, and security analysis tools like **Wireshark** and **Burp Suite**.  
-🌱 &nbsp;Learning **Dart, Flutter animations**, and best practices for mobile security.  
-🎮 &nbsp;Outside coding, I enjoy gaming, tech tutorials, and occasionally digging into CTFs.  
-💬 &nbsp;Always up for dev collabs, app ideas, or hacking challenges!  
-📫 &nbsp;Reach me: **srimahalakshmi0001@gmail.com**  
-📄 &nbsp;[LinkedIn](https://www.linkedin.com/in/MAHALAKSHMI837)
+- 🚀 Aspiring **Flutter Developer** and **Cybersecurity Enthusiast**
+- 🌦️ Currently building a **Weather App** with Flutter & live API integration
+- 🔐 Exploring **bug bounty**, **penetration testing**, and tools like **Wireshark**, **Burp Suite**
+- 📚 Learning **Dart**, **Flutter Animations**, and **Mobile Security**
+- 🎯 Passionate about CTFs, mobile UI/UX, and tech collabs
+- 📫 Reach me at: **srimahalakshmi0001@gmail.com** | [LinkedIn](https://www.linkedin.com/in/MAHALAKSHMI837)
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+### 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+**Languages**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Tools**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Web Basics**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-### 📈 &nbsp;GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MAHALAKSHMI837&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
@@ -52,7 +54,9 @@
 
 ---
 
-### 📫 &nbsp;How to reach me
+### 🔗 Connect With Me
 
-<a href="https://www.linkedin.com/in/MAHALAKSHMI837/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:AHALAKSHMI837@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/MAHALAKSHMI837/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:srimahalakshmi0001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
+---
