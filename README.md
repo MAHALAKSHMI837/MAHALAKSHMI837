@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Mahalakshmi!; Developer+%7C+Cybersecurity+Enthusiast; Always+Learning+%7C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Mahalakshmi!;Developer+%7C+Cybersecurity+Enthusiast;Always+Learning+%7C+Always+Building" />
 </h1>
 
 <!-- Banner GIF -->
